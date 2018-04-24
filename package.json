@@ -1,0 +1,32 @@
+{
+  "name": "concat-2d-array",
+  "version": "0.0.1",
+  "description": "A javascript function, split 2d array items to concat to new 2d array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lihang90/concat-2d-array.git"
+  },
+  "keywords": [
+    "concat",
+    "split",
+    "array",
+    "2d"
+  ],
+  "author": "lihang90",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lihang90/concat-2d-array/issues"
+  },
+  "homepage": "https://github.com/lihang90/concat-2d-array#readme",
+  "dependencies": {
+    "is-2d-array": "^1.0.1"
+  },
+  "devDependencies": {
+    "should": "^13.2.1",
+    "mocha": "^2.4.5"
+  }
+}
